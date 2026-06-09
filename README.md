@@ -8,16 +8,25 @@ The CFD simulation successfully predicted the aerodynamic behavior of the NACA 0
   OBJECTIVES ARE;
 
 Generate NACA 0012 geometry.
+
 Create computational domain.
+
 Perform mesh generation.
+
 Simulate external airflow.
+
 Calculate lift and drag coefficients.
+
 Compare CFD results with experimental data.
 
 METHODOLOGY IS;
 
 Geometry: NACA 0012.
+
 Solver: ANSYS Fluent.
+
 Flow Type: Steady incompressible.
+
 Turbulence Model: k-ω SST.
+
 Angle of Attack: 6°
