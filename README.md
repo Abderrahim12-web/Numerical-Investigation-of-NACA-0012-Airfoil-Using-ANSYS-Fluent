@@ -25,6 +25,8 @@ Geometry: NACA 0012.
 
 Solver: ANSYS Fluent.
 
+Reynolds Number: 3 million
+
 Flow Type: Steady incompressible.
 
 Turbulence Model: k-ω SST.
